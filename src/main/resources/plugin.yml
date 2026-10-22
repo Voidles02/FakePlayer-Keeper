@@ -1,0 +1,14 @@
+name: KeepAlive
+version: '1.0.0'
+main: com.kdi.keepalive.KdiKeepAlivePlugin
+api-version: '1.21'
+author: voidles02
+commands:
+  fk:
+    description: Manage the synthetic keep-alive player.
+    usage: /fk <spawn add [name]|kill|status|help|reload>
+    permission: fk.admin
+permissions:
+  fk.admin:
+    description: Manage the synthetic keep-alive player.
+    default: op

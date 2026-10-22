@@ -1,0 +1,8 @@
+enabled: true
+bot-name: CMD
+bot-uuid: da4a53df-c821-4f4c-b2ab-1a8af6d66124
+bot-password: CmD83x!xC32+0lX2
+auto-auth: true
+check-interval-seconds: 5
+anti-afk: false
+anti-afk-interval-seconds: 300
